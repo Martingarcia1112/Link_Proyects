@@ -13,7 +13,7 @@ This repository showcases my personal projects. Source code is private, but live
 ### Projects
 
 #### Moniel - Café Menu with CRUD
-- **Live Demo**: [https://moniel.vercel.app/](https://moniel.vercel.app/)
+- **Live Demo**: [https://moniel.vercel.app/]
 - **Description**: Complete café menu with CRUD functionality
 
 ### Contact
@@ -31,7 +31,7 @@ Este repositorio muestra mis proyectos personales. El código fuente es privado,
 ### Proyectos
 
 #### Moniel - Carta de Café con CRUD
-- **Demo en Vivo**: [https://moniel.vercel.app/](https://moniel.vercel.app/)
+- **Demo en Vivo**: [https://moniel.vercel.app/]
 - **Descripción**: Carta de café completa con funcionalidad CRUD
 
 ### Contacto
